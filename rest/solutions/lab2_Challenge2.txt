@@ -1,0 +1,23 @@
+{
+  "label": "Okta Ice – Secret Recipes",
+  "visibility": {
+    "autoSubmitToolbar": false,
+    "hide": {
+      "iOS": false,
+      "web": false
+    }
+  },
+  "signOnMode": "AUTO_LOGIN",
+  "credentials": {
+    "scheme": "SHARED_USERNAME_AND_PASSWORD",
+    "userName": "<USERNAME>",
+    "password": "<PASSWORD>",
+    "revealPassword": false,
+    "signing": {}
+  },
+  "settings": {
+    "signOn": {
+      "redirectUrl": "http://login.oktaice.cloud",
+      "loginUrl": "http://login.oktaice.cloud"
+    }
+  }}
