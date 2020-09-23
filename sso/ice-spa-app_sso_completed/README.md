@@ -21,6 +21,10 @@ Important:
 2. Clone this repo:
 3. Install Node dependencies:
     `npm install`
+3.5 create env variables for:
+    PORT=8081
+    OKTA_SUBDOMAIN={your-okta-tenant}
+    OKTA_CLIENT_ID={SPA app client ID}
 4. Run the Project:
     `npm run dev`
 
